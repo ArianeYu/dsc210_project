@@ -20,16 +20,15 @@
 ![image](https://github.com/ArianeYu/dsc210_project/assets/22425236/6c72b94e-294d-42be-bed2-763bf7d67c92)
 
 #### LDA's result
-![image](https://github.com/ArianeYu/dsc210_project/assets/22425236/bb800df7-d515-4a2a-b3fd-d0c2d3a0966d)
+![image](https://github.com/ArianeYu/dsc210_project/assets/22425236/458e9fba-045c-47ff-a94a-2743ad81a9cd)
 
 ##### Visualization of LDA (without Tensor Decomposition)
-![image](https://github.com/ArianeYu/dsc210_project/assets/22425236/741504f2-91ba-402e-b1ff-6735fff22c5c)
+![image](https://github.com/ArianeYu/dsc210_project/assets/22425236/b4bd04c9-7b0f-4dcf-abcf-07ff0fdbe86e)
 
 #### TensorLDA's result 
-![image](https://github.com/ArianeYu/dsc210_project/assets/22425236/ca6fbbae-6d00-4217-b8f6-e80046d247f6)
-
+![image](https://github.com/ArianeYu/dsc210_project/assets/22425236/1f26d0eb-48d3-43fd-9727-b0ab089a0fd0)
 
 ##### Visualization of TensorLDA 
-![image](https://github.com/ArianeYu/dsc210_project/assets/22425236/21c22385-c7be-4a51-a609-8c8960a21aa8)
+![image](https://github.com/ArianeYu/dsc210_project/assets/22425236/5cdb76dc-a1dd-4351-92aa-8070508157cc)
 
   
