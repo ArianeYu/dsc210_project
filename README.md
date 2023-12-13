@@ -14,7 +14,7 @@
   - wordcloud
   - Tensor_LDA:
     This package is from [Github Pages](https://github.com/chyikwei/tensor-lda)
-* All the experiments are contained in [project.ipynb](project_draft.ipynb)
+* All the experiments are contained in [project_draft.ipynb](project_draft.ipynb)
 
 #### Topic Distribution 
 ![image](https://github.com/ArianeYu/dsc210_project/assets/22425236/6c72b94e-294d-42be-bed2-763bf7d67c92)
